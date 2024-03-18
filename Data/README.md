@@ -8,8 +8,6 @@ Repository for data that will be migrated into distributed databases once the ap
 
 ### Architecture 
 
-Identity
-
-Resources
-
-Project Management
+1. Identity
+1. Resources
+1. Project Management
