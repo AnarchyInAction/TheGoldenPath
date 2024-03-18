@@ -6,7 +6,7 @@ Repository for data that will be migrated into distributed databases once the ap
 
 ## Long Term 
 
-###Architecture 
+### Architecture 
 
 Identity
 
