@@ -1,6 +1,7 @@
 # Presentation Layer for TGP User interfaces
 
-Steps:
-Establish requirements ./requirements.txt
-Create WireFrame of UI
-Start Development
+## Steps:
+
+1. Establish requirements ./requirements.txt
+1. Create WireFrame of UI
+1. Start Development
