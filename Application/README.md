@@ -3,12 +3,8 @@
 Server side code not beening pulled from external projects. 
 
 ## Potential future directory structure for this layer:
-Communication
-
-Resource Database
-
-Project Management
-
-Proof of Identity
-
-Concensus Gathering
+1. Communication
+1. Resource Database
+1. Project Management
+1. Proof of Identity
+1. Concensus Gathering
