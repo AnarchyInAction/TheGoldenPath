@@ -2,7 +2,7 @@
 
 ## Short Term
 
-Repository for data that will be migrated into distributed databases once the application layer is complete
+Repository for data (stored here in ./) that will be migrated into distributed databases once the application layer is complete.
 
 ## Long Term 
 
