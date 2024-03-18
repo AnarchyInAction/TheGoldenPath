@@ -1,1 +1,72 @@
+<p>This page is part of the [[The Golden Path|TGP]] project and is manually sync'ed with [https://github.com/AnarchyInAction/TheGoldenPath/blob/main/Roadmap GitHub]. 
+Contributions and Discussion is welcome.</p>
+
+{| class="wikitable"
+|+
+|Communication
+|Resource Database
+|Project Management
+|Proof of Identity
+|Concensus Gathering
+|-
+|
+|Energy/Internet
+|Food/Agriculture/Water
+|Living Space
+|
+|-
+|
+|Service
+|Support
+|Industry
+|
+|-
+|
+|
+|Defense/Innovation
+|
+|
+|}
+'''Technical Layer'''
+''Communication'': No standardized protocol yet, plenty of available projects to fork and integrate with TGP app layer. Needs to be dual layer (Hive / Internet)
+
+''Hive'' (P2P wifi/bluetooth) Still in research. Options: <nowiki>https://github.com/moarpepes/awesome-mesh</nowiki>)
+
+Optional dependency on Identity (can switch to anonymous mode for local mesh)
+
+''Internet'' (hard dependency on Identity) easiest to link identity to Mastodon instances maintained by coops.
+
+
+''Project Management:'' (Hard dependent on resource database, Identity; soft dependent on consensus)
+
+Users initiate a project based on geographic location or internet domain. User sets scope of audience based on who it impacts and who it benefits. Projects that require access to community resources or do not align with values will trigger consensus. This is also a place for open solicitation of assistance and action.
+
+''Proof of Identity:''
+
+Your identity is yoursUser interactions, can  Using a different table in the Resource database,
+
+
+''Consensus Gathering:'' (Hard dependent on Identity and communication; soft on resource database)
+
+'''Necessity Layer'''
+
+''Energy/Internet: ''
+
+''Food/Agriculture/Water: ''
+
+''Living Space: ''
+
+'''Community Layer'''
+
+''Service:''
+
+''Support :''
+
+''Industry:''
+
+'''Expansion Layer'''
+
+''Defense:''
+
+''Innovation:''
 
